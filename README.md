@@ -1,1 +1,1 @@
-github pull to run mc on a school pc
+github fork to run mc on a school pc
